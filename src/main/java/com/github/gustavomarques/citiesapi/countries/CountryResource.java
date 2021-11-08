@@ -37,5 +37,4 @@ public class CountryResource {
             return  ResponseEntity.notFound().build();
         }
     }
-
 }
